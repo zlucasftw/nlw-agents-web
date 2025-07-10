@@ -1,3 +1,3 @@
 export type CreateRoomResponse = {
-    id: string,
+    roomId: string,
 }
