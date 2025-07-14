@@ -35,6 +35,16 @@ src/
 - **CSS Variables** - Uso de variáveis CSS para temas customizáveis
 - **Atomic Design** - Organização de componentes em diferentes níveis de complexidade
 
+## Back-end do projeto:
+
+O back-end do projeto é uma aplicação que utiliza Postgres, Docker, Drizzle, Zod e TypeScript contém a API consumida aqui. Você pode conferir o repositório do back-end [aqui](https://github.com/zlucasftw/nlw-agents-server).
+
+## 🎥 Demonstração
+
+Uma simples demonstração de como a aplicação funciona na prática (e qual a relação entre jardineiros e React 🤔):
+
+![Demonstração simples do projeto](./docs/simple_demo.gif)
+
 ## ⚙️ Configuração e Instalação
 
 ### Pré-requisitos
